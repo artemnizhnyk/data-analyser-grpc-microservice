@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DataAnalyserGrpcMicroserviceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(DataAnalyserGrpcMicroserviceApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(DataAnalyserGrpcMicroserviceApplication.class, args);
+    }
 
 }
